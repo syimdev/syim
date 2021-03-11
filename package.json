@@ -1,0 +1,33 @@
+{
+  "name": "syim",
+  "version": "1.0.0",
+  "description": "S.Yim NPM Business Card",
+  "main": "index.js",
+  "bin": {
+    "syim": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syimdev/syim.git"
+  },
+  "keywords": [
+    "Seongyeob",
+    "Im"
+  ],
+  "author": "Seongyeob Im",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syimdev/syim/issues"
+  },
+  "homepage": "https://github.com/syimdev/syim#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^8.0.0",
+    "open": "^8.0.2"
+  }
+}
